@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactjs-dummyappi-recipes/static/css/main.47cc5a03.css",
+    "main.css": "/reactjs-dummyappi-recipes/static/css/main.c1089305.css",
     "main.js": "/reactjs-dummyappi-recipes/static/js/main.08dd4f6e.js",
     "static/js/453.f837cf47.chunk.js": "/reactjs-dummyappi-recipes/static/js/453.f837cf47.chunk.js",
     "index.html": "/reactjs-dummyappi-recipes/index.html",
-    "main.47cc5a03.css.map": "/reactjs-dummyappi-recipes/static/css/main.47cc5a03.css.map",
+    "main.c1089305.css.map": "/reactjs-dummyappi-recipes/static/css/main.c1089305.css.map",
     "main.08dd4f6e.js.map": "/reactjs-dummyappi-recipes/static/js/main.08dd4f6e.js.map",
     "453.f837cf47.chunk.js.map": "/reactjs-dummyappi-recipes/static/js/453.f837cf47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47cc5a03.css",
+    "static/css/main.c1089305.css",
     "static/js/main.08dd4f6e.js"
   ]
 }
